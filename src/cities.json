@@ -1,0 +1,47 @@
+{
+    "cities": [
+      {
+        "Name": "Jaipur",
+        "Temperature": "30 Haze",
+        "Image": "http://www.tourism.rajasthan.gov.in/content/dam/rajasthan-tourism/english/city/nearplace/30.jpg",
+        "Description":"Jaipur is the capital of India’s Rajasthan state. It evokes the royal family that once ruled the region and that, in 1727, founded what is now called the Old City, or “Pink City” for its trademark building color. At the center of its stately street grid (notable in India) stands the opulent, colonnaded City Palace complex. With gardens, courtyards and museums, part of it is still a royal residence.",
+        "Favorite":true,
+        "Distance":45,
+        "Lat":"24.583333",
+        "Lon":"86.85",
+        "POI": [
+           {
+              "Name": "Hawa Mahal",
+              "Temperature": "30 Cloudy",
+              "Image":"https://upload.wikimedia.org/wikipedia/commons/3/37/Hawa_Mahal_2011.jpg",
+              "Favorite":true,
+              "Description":"Hawa Mahal is a palace in Jaipur, India. It is constructed of red and pink sandstone. The palace sits on the edge of the City Palace, Jaipur, and extends to the zenana, or women's chambers. The structure was built in 1799 by Maharaja Sawai Pratap Singh.",
+              "Lat":"24.583333",
+              "Lon":"86.85",
+              "Distance":45
+           },
+           {
+              "Name": "Jantar Mantar",
+              "Temperature": "7 Haze",
+              "Image": "https://c.ndtvimg.com/nvrh4fj8_jantar-mantar_625x300_23_July_18.jpg",
+              "Favorite":true,
+              "Description":"The Jantar Mantar monument in Jaipur, Rajasthan is a collection of nineteen architectural astronomical instruments built by the Rajput king Sawai Jai Singh II, and completed in 1734. It features the world's largest stone sundial, and is a UNESCO World Heritage site. It is located near City Palace and Hawa Mahal.",
+              "Lat":"24.583333",
+              "Lon":"86.85",
+              "Distance":45
+           }
+        ]
+      },
+      {
+       "Name": "Delhi",
+        "Temperature": "30 Cloudy",
+        "Image": "https://www.planetware.com/photos-large/IND/india-delhi-red-fort.jpg",
+        "Description":"Delhi, India’s capital territory, is a massive metropolitan area in the country’s north. In Old Delhi, a neighborhood dating to the 1600s, stands the imposing Mughal-era Red Fort, a symbol of India, and the sprawling Jama Masjid mosque, whose courtyard accommodates 25,000 people. Nearby is Chandni Chowk, a vibrant bazaar filled with food carts, sweets shops and spice stalls.",
+        "Favorite":false,
+        "Distance":45,
+        "Lat":"24.583333",
+        "Lon":"86.85",
+        "POI": []
+      }
+    ]
+  }
